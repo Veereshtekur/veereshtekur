@@ -1,3 +1,4 @@
+<img width="1774" height="887" alt="veeresh_bgimage" src="https://github.com/user-attachments/assets/515f8722-de02-42c8-965f-dd9051aba20f" />
 # Hi, I'm Veeresh 👋
 
 Frontend Engineer with 3+ years of experience building scalable, high-performance enterprise web and mobile applications using React.js, Redux Toolkit, Material UI, JavaScript (ES6+), and REST APIs.
