@@ -1,16 +1,74 @@
-## Hi there 👋
+# Hi, I'm Veeresh 👋
 
-<!--
-**Veereshtekur/veereshtekur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Engineer with 3+ years of experience building scalable, high-performance enterprise web and mobile applications using React.js, Redux Toolkit, Material UI, JavaScript (ES6+), and REST APIs.
 
-Here are some ideas to get you started:
+Experienced in developing reusable component architectures, dynamic forms, responsive dashboards, and performance-optimized frontend applications for enterprise HRMS and MBO platforms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently expanding expertise in Next.js, TypeScript, and modern frontend architecture.
+
+---
+
+## 🚀 Tech Stack
+
+### Frontend
+- React.js
+- Next.js
+- JavaScript (ES6+)
+- TypeScript
+- HTML5
+- CSS3
+
+### State Management & APIs
+- Redux Toolkit
+- Context API
+- REST APIs
+- Axios
+- React Query
+
+### UI & Styling
+- Material UI (MUI)
+- Tailwind CSS
+- Responsive Design
+- Flexbox
+- CSS Grid
+
+### Mobile & Tools
+- Capacitor
+- Git & GitHub
+- Vite
+- Webpack
+- npm
+
+---
+
+## 💼 Experience
+
+Frontend Developer at EvonSys  
+Building enterprise HRMS and MBO management applications for 1000+ users.
+
+---
+
+## 📱 Featured Projects
+
+- Enterprise HRMS Dashboard
+- MBO Analytics System
+- Dynamic Form Builder
+- React + Capacitor Mobile App
+- Next.js Admin Dashboard
+
+---
+
+## 🌐 Connect With Me
+
+- LinkedIn
+- GitHub
+- Portfolio Website
+
+---
+
+## 📈 Current Focus
+
+- Next.js
+- TypeScript
+- Frontend Performance Optimization
+- Scalable Frontend Architecture
